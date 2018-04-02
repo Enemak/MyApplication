@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gateway.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\ic_gateway.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circlevert.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\circlevert.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrevert.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\carrevert.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_large.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\large.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eraser.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\eraser.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paint_pressed.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\paint_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\raw_exemple1.svg.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\raw\\exemple1.svg"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_opacity.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\opacity.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrerouge.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\carrerouge.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medium.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_line.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hub.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\hub.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hide.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\ic_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_zoom.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\ic_zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\layout_opacity_chooser.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\layout\\opacity_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\save.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\raw_exemple2.svg.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\raw\\exemple2.svg"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cerclerouge.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\cerclerouge.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hub.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\ic_hub.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brush.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\brush.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_small.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\small.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paint.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\paint.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alarme.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\alarme.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_alarme.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\ic_alarme.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\layout_brush_chooser.xml.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\layout\\brush_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_new_pic.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\new_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gateway.png.flat",
+        "source": "C:\\Users\\amien\\AndroidStudioProjects\\android-drawing-app2\\app\\src\\main\\res\\drawable\\gateway.png"
+    }
+]
